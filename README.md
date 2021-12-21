@@ -119,18 +119,18 @@
 
 # 3장 최종 구현 명령어
 
-- cat 
-- pwd
-- cd 
-- mkdir
-- ls
-- history
-- ![number] -history
-- ps
-- cp
-- rm
-- ln
-- stat
-- chmod
-- alias
-- exit
+- cat : 1개 이상의 파일을 화면에 출력
+- pwd : 현재 working 디렉토리 출력
+- cd  : working 디렉토리 변경
+- mkdir : 디렉토리 생성
+- ls : 현재 디렉토리에 있는 파일 이름을 출력
+- history : 과거 사용된 명령어를 출력
+- ![number] -history : 과거 사용된 명령어를 재실행
+- ps : 실행중인 process를 출력
+- cp : 파일 복사
+- rm : 파일 및 디렉토리 삭제
+- ln : hard link 작성
+- stat : 파일의 status를 출력
+- chmod : 파일의 permission을 변경
+- alias : 명령어를 alias
+- exit : shell 
