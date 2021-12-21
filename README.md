@@ -119,3 +119,18 @@
 
 # 3장 최종 구현 명령어
 
+- cat 
+- pwd
+- cd 
+- mkdir
+- ls
+- history
+- ![number] -history
+- ps
+- cp
+- rm
+- ln
+- stat
+- chmod
+- alias
+- exit
