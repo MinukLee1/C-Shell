@@ -74,6 +74,9 @@ implementation of basic commands of Linux Shell
     - 대부분의 시스템들이 AT&T에서 개발된 UNIX에 뿌리를 두고 있지만 시간이 흐르면서 다양한 제조사와 개발자의 손을 거치면서 운영체제별 의존성 문제가 발생되었다.
     - POSIX는 운영체제별 의존성 문제를 해결하기 위해 서로 다른 UNIX 운영체제에서 공통 API를 정리하여 운영체제간 이식성이 높은 UNIX 응용 프로그램을 개발하기 위한 목적으로 제정된 API 규격이다.
 
+
+
+
 # 2장 실습 환경 구축
 
 ### 2.1 UNIX/Linux 시스템 구축
