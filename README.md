@@ -1,6 +1,3 @@
-# C-Shell
-implementation of basic commands of Linux Shell
-
 # 1장 쉘 스크립트 개요
 
 ### 1.1 UNIX/Linux 소개 및 특징
