@@ -114,7 +114,31 @@
 - 이때 가상머신의 시스템에서 FTP 서비스가 구동 중이어야 한다.
 - FTP 설정이 완료되면 [서버 접속(Alt+E)] 아이콘을 클릭한다. 가상머신의 서버에 접속하여 파일 및 디렉터리 정보를 가져온다.
 - 작업할 파일을 선택하면 해당 파일을 불러오고, 여기서 변경 사항을 수정하여 저장하면 서버에 바로 저장된다.
+![CustomChell_page-0001](https://user-images.githubusercontent.com/74412438/199155033-20f2dfba-8476-456e-b18c-302d280de1a2.jpg)
+![CustomChell_page-0002](https://user-images.githubusercontent.com/74412438/199155054-285dac3a-6e56-4ce6-a89e-f1253f0bd532.jpg)
+![CustomChell_page-0003](https://user-images.githubusercontent.com/74412438/199155062-7be458f2-c63c-48d9-a7d7-494d2aa7094e.jpg)
+![CustomChell_page-0004](https://user-images.githubusercontent.com/74412438/199155065-f2cd5899-20ec-436b-b74c-1c09402dbae7.jpg)
 
+![CustomChell_page-0005](https://user-images.githubusercontent.com/74412438/199155014-cd0c0235-9142-4ad1-a040-ac0ae929794d.jpg)
+![CustomChell_page-0006](https://user-images.githubusercontent.com/74412438/199155079-35e7ebdd-37a2-4eb6-875f-3a796db42a29.jpg)
+![CustomChell_page-0007](https://user-images.githubusercontent.com/74412438/199155082-ef9fe2e4-5227-4acc-a909-443d5cc38da1.jpg)
+CustomChell_page-0008
+![CustomChell_page-0009](https://user-images.githubusercontent.com/74412438/199155095-35870246-570f-4398-9e6d-465c0e551a27.jpg)
+![CustomChell_page-0010](https://user-images.githubusercontent.com/74412438/199155106-36175380-1987-4925-8c27-728dc7dfabdd.jpg)
+![CustomChell_page-0011](https://user-images.githubusercontent.com/74412438/199155112-58d55b00-2bde-4ee5-aed0-1c48300f765f.jpg)
+![CustomChell_page-0012](https://user-images.githubusercontent.com/74412438/199155124-b2f0138a-27a6-433b-80a9-b57552f55b6d.jpg)
+![CustomChell_page-0013](https://user-images.githubusercontent.com/74412438/199155133-0653e50c-4789-4223-8261-926c36f76843.jpg)
+![CustomChell_page-0015](https://user-images.githubusercontent.com/74412438/199155136-788268e2-76eb-4f05-b663-55b0028e21ed.jpg)
+![CustomChell_page-0016](https://user-images.githubusercontent.com/74412438/199155140-63771e1b-6a0b-4a87-8df0-fe0a8f322564.jpg)
+![CustomChell_page-0017](https://user-images.githubusercontent.com/74412438/199155155-5dd2f081-e4d4-44ec-9756-8d1745243ac3.jpg)
+![CustomChell_page-0018](https://user-images.githubusercontent.com/74412438/199155161-6a22f513-b5dd-4b56-a4b2-e23eb377cdfe.jpg)
+![CustomChell_page-0019](https://user-images.githubusercontent.com/74412438/199155167-848605b7-e05d-421e-8de5-022ae01c5d7f.jpg)
+![CustomChell_page-0020](https://user-images.githubusercontent.com/74412438/199155172-4266dfa7-e0f0-4a82-941b-a87cd412f086.jpg)
+![CustomChell_page-0021](https://user-images.githubusercontent.com/74412438/199155182-e1d30739-ae8b-44be-b978-7395d374fcf4.jpg)
+![CustomChell_page-0022](https://user-images.githubusercontent.com/74412438/199155187-319665ce-e61e-4443-a7e3-b208cf4eaf30.jpg)
+![CustomChell_page-0023](https://user-images.githubusercontent.com/74412438/199155201-0276aea6-750f-4b79-88a4-b5778a7efb28.jpg)
+![CustomChell_page-0024](https://user-images.githubusercontent.com/74412438/199155205-30e1ebe8-a706-4e3a-b294-ec5599a248fb.jpg)
+![CustomChell_page-0025](https://user-images.githubusercontent.com/74412438/199155211-961d728a-55fe-41cc-81ca-1ead6c2f7367.jpg)
 
 
 # 3장 최종 구현 명령어
